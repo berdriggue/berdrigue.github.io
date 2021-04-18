@@ -1,0 +1,148 @@
+body{
+	margin: 0%;
+	padding: 0%;
+	font-family: 'source code pro', Calibri, serif;
+}
+.contenere{
+
+	width: 100%;
+	height: 100vh;
+	
+   background-image: linear-gradient(rgba(0,0,0,0.5),#0110),  url(../pick/2.jpg);
+   background-repeat: no-repeat; 
+   background-size: cover;
+   background-position: center;
+   
+   
+  
+}
+
+
+nav ul{
+display: flex;
+clear: both;
+}
+nav .p{
+	list-style-type: none;
+	width: 70px;
+	
+}
+nav ul .p:hover a{ 
+	border-radius: 60%;
+ padding:14px 4px; 
+box-shadow: 1px 5px 30px 5px rgba(19,18,13,12);
+}
+
+nav ul .p2:hover a{ 
+	border:1px solid transparent;
+	background-color: white;
+	color: red;
+	border-radius: 50%;
+ padding:4px 4px; 
+box-shadow: 1px 5px 30px 5px rgba(19,18,13,12);
+}
+
+nav ul .p a{
+	border-radius: 50%;
+box-shadow: 2px 2px 12px rgba(19,18,13,12);
+	padding: 14px 4px ;
+	border:1px solid transparent;
+	background-color: white;
+	color: black;
+	width: 50px;
+	text-align: center;
+
+}
+nav{
+
+	box-shadow: 2px 2px 12px rgba(12,12,23,12);
+	margin-top:0px;
+	width: 100%;
+	background-color: rgba(000, 000, 000, 0.0);
+	height: 75px;
+	position: fixed;
+}
+ul {
+float: right;
+
+}
+
+}
+h1 {
+text-align: center;
+font-size:60px;
+color: white;
+font-family: Times New Roman;
+}
+
+h2{
+text-align: center;
+font-size:30px;
+color: white;
+font-family: Times New Roman;
+}
+
+p{
+
+text-align: center;
+font-size:10px;
+color: white;
+font-family: Times New Roman;
+
+}
+
+
+nav ul{
+display: flex;
+clear: both;
+}
+nav .p2{
+	list-style-type: none;
+	width: 70px;
+	
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+}
+
+nav ul .p2 a{
+	border-radius: 50%;
+box-shadow: 2px 2px 12px rgba(19,18,13,12);
+	padding: 4px 4px ;
+	color: #fff; 
+	width: 50px;
+	text-align: center;
+
+}
+
+img{
+background-position: center;
+	width:200px; 
+	height:150px;
+}
+
+
+h1 {
+text-align: center;
+font-size:60px;
+color: white;
+font-family: Times New Roman;
+}
+
+h2{
+text-align: center;
+font-size:30px;
+color: white;
+font-family: Times New Roman;
+}
+
+p{
+
+
+text-align: center;
+font-size:15px;
+color: white;
+font-family: Times New Roman;
+
+}
